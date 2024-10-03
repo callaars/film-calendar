@@ -1,0 +1,4 @@
+arrow==1.2.3
+beautifulsoup4==4.10.0
+ics==0.7
+requests==2.26.0
